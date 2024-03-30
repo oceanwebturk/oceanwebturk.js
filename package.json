@@ -1,0 +1,19 @@
+{
+  "name": "oceanwebturk.js",
+  "description": "OceanWebTurk.JS",
+  "main": "./dist/oceanwebturk.js",
+  "private":true,
+  "keywords": [
+    "oceanwebturk",
+    "js",
+    "npm",
+    "web",
+    "owt"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oceanwebturk/oceanwebturk.js.git"
+  },
+  "homepage":"https://github.com/oceanwebturk/oceanwebturk.js#readme",
+  "license": "ISC"
+}
