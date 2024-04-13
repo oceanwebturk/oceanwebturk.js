@@ -1,1 +1,1 @@
-let config_file="oceanwebturk.json";
+const API_URL="https://api.oceanwebturk.com/";
