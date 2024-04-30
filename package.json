@@ -2,7 +2,8 @@
   "name": "oceanwebturk.js",
   "description": "OceanWebTurk.JS",
   "main": "./dist/oceanwebturk.js",
-  "private":true,
+  "private": true,
+  "author": "OceanWebTurk",
   "keywords": [
     "oceanwebturk",
     "js",
@@ -14,6 +15,9 @@
     "type": "git",
     "url": "https://github.com/oceanwebturk/oceanwebturk.js.git"
   },
-  "homepage":"https://github.com/oceanwebturk/oceanwebturk.js#readme",
+  "bugs": {
+    "url": "https://github.com/oceanwebturk/oceanwebturk.js/issues"
+  },
+  "homepage": "https://github.com/oceanwebturk/oceanwebturk.js#readme",
   "license": "ISC"
 }
